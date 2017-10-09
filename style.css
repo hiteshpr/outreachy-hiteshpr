@@ -1,0 +1,16 @@
+#success-icon,#error-icon {
+	display: none;
+}
+.container {
+	margin-top: 5%;
+	background-color: coral;
+
+}
+.jumbotron {
+	background-color: aquamarine;
+	border-radius:20px!important;
+	margin-top: 25px;
+}
+h2 {
+	color: midnightblue;
+	}
